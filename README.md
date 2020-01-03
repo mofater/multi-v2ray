@@ -74,6 +74,7 @@ v2ray [-h|--help] [options]
     stats                iptables traffic statistics
     clean                clean v2ray log
     log                  check v2ray log
+    morantest            morantest
 ```
 
 ## Docker Run
